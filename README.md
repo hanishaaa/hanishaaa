@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Building an end-to-end ML project (data → model → evaluation → simple deployment)<br>- Improving my portfolio: 2–3 production-style projects (APIs, dashboards, reproducibility)<br>- Preparing for UK Data Scientist / Analytics interviews (SQL + stats + ML)<br><br>👯 I’m looking to collaborate on<br>- Applied ML projects (time-series, clustering, representation learning, forecasting)<br>- Data analytics projects with clear business KPIs (dashboards + insights + recommendations)<br>- Open-source contributions in Python data tooling / notebooks / documentation<br><br>🤝 I’m looking for help with<br>- MLOps basics: Docker, MLflow, CI/CD, model monitoring<br>- Cloud fundamentals (AWS/Azure/GCP) for deploying small ML services<br>- Best practices for structuring DS projects (tests, logging, packaging)<br><br>🌱 I’m currently learning<br>- FastAPI + Docker for model serving<br>- Experimentation basics (A/B testing, hypothesis testing, causal inference)<br>- dbt / modern analytics pipelines (and better SQL patterns)<br><br>💬 Ask me about<br>- Python (pandas, scikit-learn) and ML workflows<br>- Deep learning (PyTorch, autoencoders, representation learning)<br>- Turning messy data into usable features + insights<br>- Dashboards & KPI design (Power BI, SQL)<br><br>⚡ Fun fact<br>- I built a self-supervised pipeline that clustered 540,000+ flight embeddings into behavioural patterns.
+MSc Data Science graduate building practical machine learning and analytics projects. I work with Python, SQL and PyTorch, with interests in deep learning, behavioural data and turning complex results into useful insights.
+
+Currently learning how to build and evaluate RAG systems and AI agents.
 
 
 ## 🌐 Socials:
